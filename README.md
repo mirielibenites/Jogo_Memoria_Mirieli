@@ -1,4 +1,4 @@
-# Jogo_PalavrasCruzadas_Mirieli
-Jogo de palavras cruzadas com níveis de dificuldade.
+# Jogo_Memoria_Mirieli
+Jogo de memorias com níveis de dificuldade.
 
 Colocar o link do github page.
