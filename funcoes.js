@@ -1,4 +1,6 @@
 const cardBoard = document.querySelector("#cardboard");
+const pontuacao = document.querySelector("#pontos");
+let ponto = 0;
 const images = [
     '0.jpg',
     '1.jpg',
@@ -43,9 +45,18 @@ function flipCard(){
     checkForMatch();
 }
 function checkForMatch(){
-    let isMatch = firstCard.dataset.card === secondCard.dataset.card;
+   let isMatch = firstCard.dataset.card === secondCard.dataset.card;
+   
+   if(isMatch){
+       ponto = ponto + 1;
+       pontuacao.innerText = ponto;
 
-    !isMatch ? disableCards() : resetCards(!isMatch);
+       if(ponto === 10){
+        alert("PARABÉNS!!! Você conseguiu!")
+    }
+   }
+
+    !isMatch ? disableCards() : resetCards(!isMatch); 
 }
 
 function disableCards(){
