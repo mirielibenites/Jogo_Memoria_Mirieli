@@ -14,7 +14,7 @@ Este é um jogo de memórias com figuras de desenhos animados. Nele, há 20 card
 - **JS:** _Funções do site;_
 
 ### Prints da Tela WebApp
-| Tela Inicial | Escolhendo oS Cards |
+| Tela Inicial | Escolhendo os Cards |
 |--------------|-----------------|
 | ![Tela inicial](/img/tela1.png)     | ![Tela Card](/img/tela2.png)    |
 
