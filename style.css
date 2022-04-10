@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: #a3e1ff;
+    background-color: #7ec6eb;
     height: 100vh;
 }
 
@@ -27,6 +27,14 @@ header > h1 {
 header > h3{
     font-size: 2rem;
     font-variant: small-caps;
+}
+
+.pontuacao{
+    text-align: center;
+    font-size: 2rem;
+    font-size:larger;
+    font-variant: small-caps;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
 #cardboard{
