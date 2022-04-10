@@ -52,7 +52,7 @@ function checkForMatch(){
        pontuacao.innerText = ponto;
 
        if(ponto === 10){
-        alert("PARABÉNS!!! Você conseguiu!")
+        alert("PARABÉNS!!! Você conseguiu!");
     }
    }
 
