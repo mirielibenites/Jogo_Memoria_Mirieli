@@ -14,4 +14,5 @@ Este é um jogo de memórias com figuras de desenhos animados. Nele, há 20 card
 - **JS:** _Funções do site;_
 
 ### Disponível em: 
+[Memoria-Game](https://mirielibenites.github.io/Jogo_Memoria_Mirieli/)
 Link de acesso: https://mirielibenites.github.io/Jogo_Memoria_Mirieli/
