@@ -8,4 +8,9 @@ Este é um jogo de memórias com figuras de desenhos animados. Nele, há 20 card
 - Se formarem um par, eles são removidas do jogo. Caso contrário, eles são virados novamente;
 - Encontre todos os pares para remover todos os cards do jogo.
 
+## Tecnologias utilizadas
+- **HTML:** _Estrutura do site;_
+- **CSS:** _Estilo do site;_
+- **JS:** _Funções do site;_
+
 Link de acesso: https://mirielibenites.github.io/Jogo_Memoria_Mirieli/
