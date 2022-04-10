@@ -14,12 +14,9 @@ Este é um jogo de memórias com figuras de desenhos animados. Nele, há 20 card
 - **JS:** _Funções do site;_
 
 ### Prints da Tela WebApp
-| Tela Inicial | Escolhendo o Card |
+| Tela Inicial | Escolhendo oS Cards |
 |--------------|-----------------|
 | ![Tela inicial](/img/tela1.png)     | ![Tela Card](/img/tela2.png)    |
-| Tela Inicial | Escolhendo o Card |
-|--------------|-----------------|
-| ![Tela bob](/img/bob.png)     | ![Tela Card](/img/tela2.png)    |
 
 ### Disponível em: 
 [Memoria-Game](https://mirielibenites.github.io/Jogo_Memoria_Mirieli/)
