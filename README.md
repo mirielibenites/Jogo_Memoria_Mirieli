@@ -15,6 +15,24 @@ Este é um jogo de memórias com figuras de desenhos animados. Nele, há 20 card
 | Todos os pares encontrados | Jogo finalizado |
 | ![Pares encontrados](/img/tela3.png)     | ![Finalizado](/img/tela4.png)    |
 
+### Função Principal 
+```js: 
+function checkForMatch(){
+   let isMatch = firstCard.dataset.card === secondCard.dataset.card;
+   
+   if(isMatch){
+       ponto = ponto + 1;
+       pontuacao.innerText = ponto;
+
+       if(ponto === 10){
+        alert("PARABÉNS!!! Você conseguiu!");
+    }
+   }
+
+    !isMatch ? disableCards() : resetCards(!isMatch); 
+}
+```
+
 ### Tecnologias utilizadas
 - **HTML:** _Estrutura do site;_
 - **CSS:** _Estilo do site;_
