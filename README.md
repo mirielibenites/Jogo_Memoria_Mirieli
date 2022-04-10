@@ -17,6 +17,8 @@ Este é um jogo de memórias com figuras de desenhos animados. Nele, há 20 card
 | Tela Inicial | Escolhendo os Cards |
 |--------------|-----------------|
 | ![Tela inicial](/img/tela1.png)     | ![Tela Card](/img/tela2.png)    |
+| Todos os pares encontrados | Jogo finalizado |
+| ![Tela inicial](/img/tela3.png)     | ![Tela Card](/img/tela2.png)    |
 
 ### Disponível em: 
 - [Memoria-Game](https://mirielibenites.github.io/Jogo_Memoria_Mirieli/)
