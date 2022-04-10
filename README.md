@@ -5,7 +5,7 @@ Este é um jogo de memórias com figuras de desenhos animados. Nele, há 20 card
 
 ### Como jogar
 - Escolha dois cards para desvirar;
-- Se formarem um par, eles são removidas do jogo. Caso contrário, eles são virados novamente;
+- Se formarem um par, eles são removidos do jogo. Caso contrário, eles são virados novamente;
 - Encontre todos os pares para remover todos os cards do jogo.
 
 ### Tecnologias utilizadas
